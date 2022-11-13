@@ -1,0 +1,64 @@
+
+body {
+    background: #fca6c9;
+}
+
+header {
+    text-align: center;
+    font-size: 3.75em;
+    font-weight: bold;
+    color: white;
+    font-family: Arial;
+    margin: 30px auto;
+}
+
+header:hover {
+    color: black;
+}
+
+p {
+    display: block;
+    font-size: 1.25em;
+    text-align: center;
+    width: 22%;
+    margin: 5px auto;
+    color: white;
+}
+
+img {
+    width: 10%;
+    display: block;
+    margin: 30px auto;
+}
+
+ol {
+    display: block;
+    text-align: left;
+    font-size: 1.5em;
+    font-family: Calibri;
+    margin: 15px auto;
+    width: 21%;
+    font-weight: bold;
+}
+
+#president {
+    display: block;
+    font-weight: bold;
+    font-family: Calibri;
+    margin: 20px auto;
+}
+
+#quote {
+    width: 14%;
+    font-size: 2.5em;
+}
+
+footer {
+    font-family: Calibri;
+    font-size: .75em;
+    font-weight: bold;
+    text-align: center;
+    width: 10%;
+    display: block;
+    margin: 30px auto;
+}
